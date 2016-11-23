@@ -1,4 +1,5 @@
 !.gitignore
+/.vs
 /bin
 /obj
 /KcptunClient.sln
