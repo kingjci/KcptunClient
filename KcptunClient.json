@@ -1,0 +1,17 @@
+[
+  {
+    "remoteAddress": "hostus.jincheng.link",
+    "remotePort": 9388,
+    "localPort": 21574,
+    "mode": "fast3",
+    "enable": true
+  },
+  {
+    "remoteAddress": "hostus.jincheng.link",
+    "remotePort": 9388,
+    "localPort": 21575,
+    "mode": "fast3",
+    "enable": false
+  }
+
+]
